@@ -57,7 +57,7 @@ streamlit run rhetorical_fingerprint.py
 ></iframe>
 ```
 
-## Tech Requirements Stack
+## Tech Stack
 
 - [Streamlit](https://streamlit.io) — app framework
 - [Pandas](https://pandas.pydata.org) — data handling
